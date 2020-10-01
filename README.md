@@ -1,6 +1,7 @@
 # 2020 Presidential Debate Data Viz
-Scraped the full transcript for the first presidential debate in 2020 from [here](https://www.rev.com/blog/transcripts/donald-trump-joe-biden-1st-presidential-debate-transcript-2020)   
-Cleaned the text using NLP techniques and created word clouds for Biden and Trump's transcripts.
+* Scraped the full transcript for the first presidential debate in 2020 from [here](https://www.rev.com/blog/transcripts/donald-trump-joe-biden-1st-presidential-debate-transcript-2020)   
+* Cleaned the text using NLP techniques     
+* Created word clouds for Biden and Trump's transcripts    
 
 ## Packages Used and Sources Referenced   
 **Python Version:** 3.7  
